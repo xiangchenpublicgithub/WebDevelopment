@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://u.115.com/folder/f5987ba92e2
+[DOC_frame_tjj]
+BASEURL=http://u.115.com/static/modules/folder_960_100_1.html
+ORIGURL=/static/modules/folder_960_100_1.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://u.115.com/folder/f5987ba92e2
+IDList=
+IconFile=http://u.115.com/favicon.ico
+IconIndex=1
